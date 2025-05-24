@@ -93,6 +93,6 @@ El campo del formulario para subir el archivo debe tener el atributo `name="upfi
 3. El campo de entrada del archivo en el formulario debe tener el atributo `name="upfile"`.
 4. Cuando envías un archivo, recibes un JSON con el nombre, tipo y tamaño del archivo en bytes.
 
----
+
 
 
